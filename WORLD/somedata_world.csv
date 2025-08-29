@@ -1,4 +1,4 @@
-Country,iso2,iso3,region,fragility,co2,sq km,num_airports,population,mobiles
+Country,iso2,iso3,region,fragility,co2,sq_km,num_airports,population,mobiles
 AFGHANISTAN,AF,AFG,SOUTH ASIA,105,7893000,652230,68,40121552,23000000
 ALBANIA,AL,ALB,EUROPE,58.9,3794000,28748,3,3107100,2610000
 ALGERIA,DZ,DZA,AFRICA,75.4,151633000,2381740,95,47022473,51500000
